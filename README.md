@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/pkvidyarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkvidyarthi" height="30" width="40" /></a>
 <a href="https://kaggle.com/pkvidyarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pkvidyarthi" height="30" width="40" /></a>
 <a href="https://instagram.com/hacktech.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hacktech.pk" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCOof-oTGWuFOWnATpetfg3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pkvidyarthi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkvidyarthi&show_icons=true&locale=en" alt="pkvidyarthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkvidyarthi&" alt="pkvidyarthi" /></p>
+
+
 
 
 
