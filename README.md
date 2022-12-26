@@ -1,6 +1,6 @@
-<!-- ![logo](https://github.com/pkvidyarthi/pkvidyarthi/blob/main/Banner.png) -->
 <hr>
-<img align = 'center' alt = 'gif'  src = 'https://github.com/pkvidyarthi/pkvidyarthi/blob/main/PK%20Banner.gif'>
+<!-- ![logo](https://github.com/pkvidyarthi/pkvidyarthi/blob/main/Banner.jpg) -->
+<img align = 'center' alt = 'gif' width = 'auto' src = 'https://github.com/pkvidyarthi/pkvidyarthi/blob/main/PK%20Banner.gif'>
 <hr>
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">Studious and Quick Learner</h3>
